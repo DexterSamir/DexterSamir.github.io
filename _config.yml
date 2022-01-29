@@ -55,32 +55,46 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: CreedFunding
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+#         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        
+        quote: >
+          Crowdfunding site for innovative projects
+          
+        description: | # this will include new lines to allow paragraphs
+          Angular || Django || MongoDB
+          
+         title: ParaKeet
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: Link Text
+        additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+       
         quote: >
-          Short overview of the project (optional)
+          Pet Food and Accessories based E-Commerce site
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+          Dotnet || C# || Entity Framework
+          
+         title: ViralPedia
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        
         quote: >
-          Short description of the company (optional)
+           Blog site about Virus and Pandemics
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Html || Bootstrap || CSS || PHP 
+ 
   - title: Education
     layout: list
     content:
@@ -91,7 +105,59 @@ content:
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        
+        title: Dhaka City College
+        sub_title: Science
+        caption: 2014-2016
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          
+          
+   - title: Certificates And Acheivements
+    layout: list
+    content:
+      - layout: right
+        title: Ai For Everyone
+        sub_title: Coursera
+        caption: 
+        link: 
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+        
+        title: Enterprise System Management and Security
+        sub_title: Coursera
+        caption: 
+        link: 
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+        
+        title: Machine Learning For All
+        sub_title: Coursera
+        caption: 
+        link: 
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+        
+         title: Machine Learning for All
+        sub_title: Coursera
+        caption: 
+        link: 
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+        
+         title: Responsive Web Design
+        sub_title: Coursera
+        caption: 
+        link: 
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+         
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
