@@ -106,7 +106,7 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
         
-        title: Dhaka City College
+      - title: Dhaka City College
         sub_title: Science
         caption: 2014-2016
         quote: >
